@@ -6,6 +6,7 @@ colorama==0.3.9
 cssselect2==0.2.1
 cycler==0.10.0
 defusedxml==0.5.0
+dj-database-url==0.5.0
 Django==1.11
 django-ckeditor==5.4.0
 django-js-asset==1.1.0
@@ -45,4 +46,3 @@ webencodings==0.5.1
 wrapt==1.10.11
 xhtml2pdf==0.2.2
 xlrd==1.1.0
-psycopg2==2.7.1
